@@ -1,0 +1,4 @@
+baseURL = "http://pjhades.github.io/"
+languageCode = "en-us"
+title = "test 测试"
+theme = "etch"
